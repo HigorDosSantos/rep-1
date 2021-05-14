@@ -1,2 +1,2 @@
 # rep-1
- 1° repositório versinado
+ 1° repositório do curso de Git e GitHub
